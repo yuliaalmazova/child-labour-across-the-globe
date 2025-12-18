@@ -14,11 +14,11 @@ body {
 
 .article-container {
     background-color: white; 
-	justify-content:center;
     max-width: 800px;       
     width: 100%;
     padding: 50px;           
     border-radius: 8px;      
+    box-shadow: 0 4px 20px rgba(0,0,0,0.05); 
     box-sizing: border-box;
 }
 
@@ -41,7 +41,6 @@ h2 {
     margin-bottom: 20px;
 }
 
-
 h3 {
     font-size: 14px;
     color: #888;
@@ -52,14 +51,12 @@ h3 {
     margin-bottom: 40px;
 }
 
-
 p {
     font-size: 18px;
     line-height: 1.8;
     color: #333;
     margin-bottom: 30px;
 }
-
 
 iframe {
     margin: 20px 0;
