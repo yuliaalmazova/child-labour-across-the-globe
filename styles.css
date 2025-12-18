@@ -1,11 +1,18 @@
 body {
 
+	
 	background-color: floralwhite;
     font-family: sans-serif;
-    font-size: 18;
-}
+    font-size: 24;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    box-sizing: border-box;}
 
 head {
 	
 	font-family: sans-serif;
 	font-size: 30;
+
+}
